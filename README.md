@@ -1,5 +1,5 @@
 # Suven-Internship-JavaProject-1
 
-InternshipProject for LoanAssistant
+Internship project for LoanAssistant || Consumer Loan Assistant ProjectStatus
 
-Consumer Loan Assistant ProjectStatus
+
